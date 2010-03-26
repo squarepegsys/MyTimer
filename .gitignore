@@ -1,0 +1,13 @@
+*.log
+*~
+configure*-*
+Makefile
+*.cache
+config.h
+*.status
+*.orig
+stamp*
+.deps
+*.scan
+*.o
+gtimer
